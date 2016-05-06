@@ -1,0 +1,15 @@
+---
+#title: 'Title'
+#author: 'Author'
+#date: 'Date'
+
+documentclass: article
+#documentclass: report #for  treating top-level headers as chapters
+papersize: a4paper
+numbersections: no
+toc: no
+lof: no
+lot: no
+lol: no
+---
+
